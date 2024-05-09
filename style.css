@@ -1,17 +1,16 @@
 body {
     background-color: #1e293b;
-
-    /* herança (genética) => propriedades que são passadas de pai para filhos */
-    color: #e2e8f0;
-
-    /* mudar a fonte */
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #e2e8f0; /* herança (genética) => propriedades que são passadas de pai para filhos */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* mudar a fonte */
 }
 
 h1, h2, h3 {
     color: #16a34a;
 }
 
+header {
+    background-color: #0f172a;
+}
 
 /* 
     color => mudar a cor de qualquer texto
